@@ -4,7 +4,6 @@
 <p align="left"> <a href="https://twitter.com/olanrewxju" target="blank"><img src="https://img.shields.io/twitter/follow/olanrewxju?logo=twitter&style=for-the-badge" alt="olanrewxju" /></a> </p>
 
 - 👀 I’m interested in Mobile Development opportunities
-- 🌱 I’m currently honing my Flutter skills
 - 💞️ I’m looking to collaborate on Mobile Dev projects
 - 📫 You can reach me on wajubabalola@gmail.com
 
