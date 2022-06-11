@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Olanrewaju Babalola</h1>
-<h3 align="center">a self taught Flutter Dev, I love building apps that solve real world problems.</h3>
+<h3 align="center">a self taught Frontend Developer, I love building softwares that solve real world problems.</h3>
 
 <p align="left"> <a href="https://twitter.com/olanrewxju" target="blank"><img src="https://img.shields.io/twitter/follow/olanrewxju?logo=twitter&style=for-the-badge" alt="olanrewxju" /></a> </p>
 
-- 👀 I’m interested in Mobile Development opportunities
-- 💞️ I’m looking to collaborate on Mobile Dev projects
+- 👀 I’m interested in Web and Mobile Development opportunities
+- 💞️ I’m looking to collaborate on Dev projects
 - 📫 You can reach me on wajubabalola@gmail.com
 
 
